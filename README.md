@@ -522,11 +522,11 @@ a = kpu.deinit(task)
 
 循迹测试：
 
-![openmv结果1](images\openmv结果1.png)
+![openmv结果1](https://github.com/zhaohaobingSUI/ZHB_project_diansai/blob/master/images/openmv%E7%BB%93%E6%9E%9C1.png)
 
 测试结果：
 
-![openmv结果2](images\openmv结果2.png)
+![openmv结果2](https://github.com/zhaohaobingSUI/ZHB_project_diansai/blob/master/images/openmv%E7%BB%93%E6%9E%9C2.png)
 
 用openmv红线循迹，这部分比较简单，就不多说了吧
 
