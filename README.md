@@ -30,7 +30,7 @@ https://www.sipeed.com/index.html
 
 https://singtown.com/openmv/
 
-![IDE](images\IDE.png)
+![IDE](https://github.com/zhaohaobingSUI/ZHB_project_diansai/blob/master/images/IDE.png)
 
 ## 1、K210数字识别、滤噪、判断
 
