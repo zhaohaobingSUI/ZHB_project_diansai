@@ -10,13 +10,13 @@
 
 K210数字识别效果：
 
-![k210结果2](images\k210结果2.png)
+![k210结果2](https://github.com/zhaohaobingSUI/ZHB_project_diansai/blob/master/images/k210%E7%BB%93%E6%9E%9C2.png)
 
 （我媛哥的手真好看）
 
 openmv红线循迹效果：
 
-![openmv结果1](images\openmv结果1.png)
+![openmv结果1](https://github.com/zhaohaobingSUI/ZHB_project_diansai/blob/master/images/openmv%E7%BB%93%E6%9E%9C1.png)
 
 
 
@@ -78,15 +78,15 @@ https://singtown.com/openmv/
 
 训练集：
 
-![数据集1](images\数据集1.png)
+![数据集1](https://github.com/zhaohaobingSUI/ZHB_project_diansai/blob/master/images/%E6%95%B0%E6%8D%AE%E9%9B%861.png)
 
 测试集：
 
-![数据集2](\images\数据集2.png)
+![数据集2](https://github.com/zhaohaobingSUI/ZHB_project_diansai/blob/master/images/%E6%95%B0%E6%8D%AE%E9%9B%862.png)
 
 训练输出结果：
 
-![输出结果](\images\输出结果.png)
+![输出结果](https://github.com/zhaohaobingSUI/ZHB_project_diansai/blob/master/images/%E8%BE%93%E5%87%BA%E7%BB%93%E6%9E%9C.png)
 
 
 
@@ -116,13 +116,13 @@ https://wiki.sipeed.com/soft/maixpy/zh/get_started/upgrade_maixpy_firmware.html
 
 更新固件库：
 
-![固件库](\images\固件库.png)
+![固件库](https://github.com/zhaohaobingSUI/ZHB_project_diansai/blob/master/images/%E5%9B%BA%E4%BB%B6%E5%BA%93.png)
 
 #### 1.3.3 将文件放入TF卡中
 
 文件目录：
 
-![文件目录](images\文件目录.png)
+![文件目录](https://github.com/zhaohaobingSUI/ZHB_project_diansai/blob/master/images/%E6%96%87%E4%BB%B6%E7%9B%AE%E5%BD%95.png)
 
 将上述文件全复制到tf卡中，tf卡插入k210
 
@@ -132,7 +132,7 @@ https://wiki.sipeed.com/soft/maixpy/zh/get_started/upgrade_maixpy_firmware.html
 
 IDE中运行效果：
 
-![ide效果图](images\ide效果图.png)
+![ide效果图](https://github.com/zhaohaobingSUI/ZHB_project_diansai/blob/master/images/ide%E6%95%88%E6%9E%9C%E5%9B%BE.png)
 
 #### 1.3.5 通过串口调试助手测试指令通信
 
@@ -142,7 +142,7 @@ IDE中运行效果：
 
 初始识别数字为6，两次转向是向左
 
-![串口发送数据图](\images\串口发送数据图.png)
+![串口发送数据图](https://github.com/zhaohaobingSUI/ZHB_project_diansai/blob/master/images/%E4%B8%B2%E5%8F%A3%E5%8F%91%E9%80%81%E6%95%B0%E6%8D%AE%E5%9B%BE.png)
 
 
 
